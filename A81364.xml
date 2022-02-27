@@ -1,0 +1,450 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The designs and correspondencies of the present Committee of Estates and the part of the Scotish nation which is now entred into this kingdom in hostility, in some measure discovered by two packets of letters intercepted in the North, and sent up to the House of Commons. With an introductive and some marginal notes and animadversions, by a private pen. Ordered by the Commons assembled in Parliament, that these letters by forthwith printed and published. H: Elsynge, Cler. Parl. D Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81364</idno>
+            <idno type="STC">Wing D1176</idno>
+            <idno type="STC">Thomason E459_5</idno>
+            <idno type="STC">ESTC R205079</idno>
+            <idno type="EEBO-CITATION">99864520</idno>
+            <idno type="PROQUEST">99864520</idno>
+            <idno type="VID">116750</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81364)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116750)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E459[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The designs and correspondencies of the present Committee of Estates and the part of the Scotish nation which is now entred into this kingdom in hostility, in some measure discovered by two packets of letters intercepted in the North, and sent up to the House of Commons. With an introductive and some marginal notes and animadversions, by a private pen. Ordered by the Commons assembled in Parliament, that these letters by forthwith printed and published. H: Elsynge, Cler. Parl. D Com.</title>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 16. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Scotland. --  Committee of estates --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116750:1" rendition="simple:additions"/>
+            <p>THE DESIGNS AND Correſpondencies of the preſent <hi>COMMITTEE</hi> of <hi>ESTATES</hi> AND That part of the <hi>Scotiſh</hi> Nation which is now entred into this Kingdom in Hoſtility, <hi>In ſome meaſure diſcovered by two</hi> PACKETS of LETTERS intercepted in the North, and ſent up to the Houſe of COMMONS.</p>
+            <p>WITH AN INTRODUCTIVE AND Some Marginal Notes and Animadverſions, <hi>By a private Pen.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>DAN. 2.26.</hi>
+               </bibl>
+               <p>There is a God in heaven that revealeth Secrets.</p>
+            </q>
+            <floatingText xml:lang="eng" type="order">
+               <body>
+                  <p>ORdered by the Commons aſſembled in Parliament, That theſe Letters be forthwith printed and publiſhed:</p>
+                  <closer>
+                     <signed>H: Elſynge, Cler. Parl. D Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Commons. <hi>Auguſt</hi> 16. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116750:2"/>
+            <pb n="3" facs="tcp:116750:2"/>
+            <p>THat the great and glorious work of erecting a throne for the Lord Chriſt, &amp; promoting the powers of god<g ref="char:EOLhyphen"/>lineſs by a thorow Reformation in Church and State (which is a principal part of that Cauſe the Parlia<g ref="char:EOLhyphen"/>ment hath hitherto travelled with) ſhall proſper, and notwith<g ref="char:EOLhyphen"/>ſtanding the fraud and force of men or devils, ſhall ride on con<g ref="char:EOLhyphen"/>quering and to conquer, till captivity be fully lead captive, and grace become glory; no pious heart but believes, But whither the Lord will honor this generation of men, and make them an in<g ref="char:EOLhyphen"/>ſtrument in his hand to accompliſh this work in theſe Kingdoms, we cannot ſo confidently determine: For, when we reminde our high Rebellions againſt our God, our want of real and perſonal Reformation, and neglect of executing judgement upon the Ene<g ref="char:EOLhyphen"/>mies of this Cauſe (in which ſence it cannot be denyed but our ſolemn Covenant hath been as ſolemnly broken) we may have cauſe enough to expect, That the Lord will ſo viſit upon us thoſe provocations, as to make <hi>England</hi> an <hi>Aceldama,</hi> or as <hi>Germany,</hi> a perpetual deſolation, and bury this Parliament in their own ruines, by the unjuſt indignation of thoſe very people, whoſe life and welfare is bound up in theirs; and yet endeavor in a blinded zeal, <hi>Sampſon</hi>-like, to pull down thoſe pillars that ſhould ſup<g ref="char:EOLhyphen"/>port them, and let fall the Vindication of his Cauſe, to be reſum'd by ſome more faithful generation that ſhall ſucceed. Yet if we do but conſider, with what Viciſſitudes and Alternations the Lord hath been pleaſed to diſpence his providences, ſuffering us many times to be brought to the pits brink, and thence as often recovering us, and blaſting the higheſt expectations of the Ene<g ref="char:EOLhyphen"/>my, we may with ſome reaſon hope, That the Decree is not yet gone forth againſt us; but rather that he beholds us, as once he did Iſrael, with a troubled heart and repentings kindled toge<g ref="char:EOLhyphen"/>ther, when he ſaid, <hi>How ſhall I give thee up, O Ephraim? How ſhall I make thee as Admah?</hi> &amp;c. as it were unreſolved what to do with <hi>England,</hi> and <hi>Englands</hi> ſometimes dear and deſired Par<g ref="char:EOLhyphen"/>liaments. But if we adde thereunto the conſideration of the
+<pb n="4" facs="tcp:116750:3"/>maner of our Deliverances, wherein he hath imprinted generally ſome character of ſpecial favor and mercy; and of the great and glorious things he hath done for this Parliament, the meer works of an Almighty arm, to which the creature could not pretend, not onely of old, when his hand was ſo lifted up, that all the world ſaw and confeſt his marvellous doings in behalf of his ſer<g ref="char:EOLhyphen"/>vants; but even that now again, ſince the like troubles have been renewed, he hath repeated the like Adminiſtrations, giving us in the midſt of our dangers (by ſo much the more formidable as re<g ref="char:EOLhyphen"/>lapſes are worſe then the firſt diſeaſes) many ſeaſonable, and little leſs then miraculous Deliverances; as, in <hi>Wales,</hi> the North, <hi>Kent, Surrey</hi> and elſwhere, the leaſt of which we could not want, or having wanted, muſt probably have periſht. We can<g ref="char:EOLhyphen"/>not without a ſinful ingratitude, and inobſervance of former mercies, which with God are arguments and obligations for fu<g ref="char:EOLhyphen"/>ture, but think that he will yet do this Parliament good at the latter end; and having been at the coſt of ſo many mercies and miracles for them, That he will carry on this Cauſe by theſe hands, unto a happy and bleſſed iſſue for theſe Kingdoms. But in no ſort of Diſpenſations hath he more remarkably appeared, and teſtified the continuance of his favor to this Parliament and his people, then in diſcovering and diſappointing the ſecret Plots and Machinations of ſuch, as under the character of friends lay in our boſoms, to which he hath always hitherto given a miſcarrying womb and dry breſts; and in unmasking and taking off thoſe ſpecious vizards, wherewith thoſe apoſtatized friends, and other more profeſſed Enemies that have riſen up in arms againſt us, have clothed their undertakings, to lure our people from us, and proſelyte them to their aſſiſtance: By means whereof, and by the good hand of God, the affections of thoſe that firſt engaged with us, and were in ſome meaſure withdrawn, ſeeming to ſleep in the aſhes of diſcontent for their long continued burthens, and long delayed reparations, have been reinlivened and recovered to us, they by ſuch providential Diſcoveries being brought to ſee aſwel the wickedneſs as the unſucceſsfulneſs of their Deſigns; and from thence gathering cauſe to reſolve, That as the Enemies ma<g ref="char:EOLhyphen"/>lice levels at the Deſtruction, ſo their welfare is onely to be ſe<g ref="char:EOLhyphen"/>cured in the Preſervation of this Parliament, That in the ruine of
+<pb n="5" facs="tcp:116750:3"/>this they may bid Good-night to all future Parliaments, and in the change of this have ſmall hopes of bettering their con<g ref="char:EOLhyphen"/>dition: A freſh occaſion of this is given in from our Neighbors of <hi>Scotland,</hi> who being entred this Kingdom in open hoſtility, yet by their plauſible Declarations and publike Overtures, would have the world think their errand honeſt and honorable, that they have nothing in their eye but the good of Religion, the Pre<g ref="char:EOLhyphen"/>ſervation of the Kings Perſon according to the Covenant, and thoſe other ends of the Covenant and Ingagements in the joynt Declaration of the 6. of <hi>January;</hi> whereas by that which fol<g ref="char:EOLhyphen"/>lows it will appear, That it is even amongſt themſelves a queſtion, whether Duke <hi>Hamilton,</hi> who commands their Forces in chief, be at all a friend to Presbytery (by which generally they under<g ref="char:EOLhyphen"/>ſtand Religion) that thoſe conditions in the Covenant with which the Defence and Preſervation of the Kings Perſon is qua<g ref="char:EOLhyphen"/>lified, are wholly forgotten, as always omitted in their publique Expreſſes; and that inſtead of bringing Delinquents and the Enemies of this Cauſe to condign puniſhment, which both by the Covenant and recited Declaration they are joyntly with us ingaged to, their principal aſſiſtances are raiſed, and correſpon<g ref="char:EOLhyphen"/>dencies laid with ſuch, and particularly thoſe Northern noto<g ref="char:EOLhyphen"/>rious Incendiaries, <hi>Glemham, Langdale, Muſgrave,</hi> with <hi>Hart<g ref="char:EOLhyphen"/>ford</hi> and <hi>Holland,</hi> and other Southern Malignants; and, not to be infinite, That their Intentions of good to this Kingdom are ſo worthy of ſuſpect, as that the Lord <hi>Lauderdale,</hi> who might be thought (though miſguided) to have ſome honeſt principles left, is judg'd fit to be packt away to <hi>France,</hi> as a likely oppoſer of their bad ends; and the Prince himſelf, who is content to uſe their ayds, doubts to truſt himſelf amongſt them; and not without reaſon, if it be true, as many wiſe obſervers of Affairs believe, That Duke <hi>Hamilton,</hi> with the help of the active Secretary his brother, hath got himſelf in the head of theſe Forces, more with Deſign (according to ſome old pretentions and predictions) to get the Crown of <hi>Scotland,</hi> and the conqueſt of <hi>England</hi> to him<g ref="char:EOLhyphen"/>ſelf, then for any ſervice to this King or Kingdom; and though much of this lay hid and unſuſpected by many well meaning men (that having loſt their way in a Scotch miſt, and out of zeal to Presbytery, in which both the Scots and they concentred) were (in
+<pb n="6" facs="tcp:116750:4"/>compliance with them) gon further on the malignants errand then ever they intended, yet now they are printed in ſuch legible Cha<g ref="char:EOLhyphen"/>racters, as he that runs may read them, in two packets intercepted; which having ſtated the occaſion by which they come to the Par<g ref="char:EOLhyphen"/>liaments hands, without further anticipation of the Readers judgement, ſhall be left to ſpeak their own ſenſe, with this onely Obſervation premiſed, That though much thereof be in Cipher, yet thoſe inſtruments which God hath qualified with skill to open them, will be able to evidence to any competent under<g ref="char:EOLhyphen"/>ſtanding, that the language they now ſpeak is moſt genuine and natural; which will the rather be believed, if it be conſidered that the tranſlation put upon the <hi>Naſeby</hi> and other Letters which came in Characters, by the Decipherers were never yet diſavow<g ref="char:EOLhyphen"/>ed or contradicted in the leaſt. But now to the occaſion, When the new Committee of Eſtates had all things in readineſs for their expedition, and invaſive entrance into this Kingdom, they diſpatcht from <hi>Edenburgh</hi> (upon the very ſame day that Duke <hi>Hamilton</hi> entred into <hi>England</hi>) their Vaunt-currier or Agent Mr. <hi>Haliburton,</hi> to give the Parliament an account of (the Rea<g ref="char:EOLhyphen"/>ſons we cannot call them, but) Pretences of their march and return into this Kingdom, by a Letter and Declaration from them, and another to the King, for which he was qualified by Commiſſion, and for that onely; upon conſidence whereof, he ap<g ref="char:EOLhyphen"/>proaches Major General <hi>Lamberts</hi> Quarters for his paſs and ſafe conduct, which was not denied him, but finding him poſſeſſed of divers other Letters doubtfully directed, and by Characters, he cauſed them to be put in a caſe under both their ſeals, and him to be fairly waited upon by perſons of truſt and credit, that the judgement of Parliament might be had concerning the ſame: Being thus ſent up (having in his paſſage principally deſired con<g ref="char:EOLhyphen"/>ference with ſuch as were known abetters to the Kings cauſe) the Houſe of Commons, though tender of the Laws of Agencies and publique Miniſters, obſerving (beſides that he pretended no Commiſſion for bringing thoſe other Papers) that the Com<g ref="char:EOLhyphen"/>mittee of Eſtates in that publique Expreſs to the Houſes, held forth as one cauſe of their coming in, that they were invited by divers perſons in this Kingdom engaged in Covenant with them; for the more hopeful diſcovery of the perſons that might have
+<pb n="7" facs="tcp:116750:4"/>invited them, Ordered them to be opened and viewed by a Com<g ref="char:EOLhyphen"/>mittee of their own, and a report (of ſuch as were of any im<g ref="char:EOLhyphen"/>portance or ſignification) to be made, which after the difficulty of Deciphering them (that were in Characters) was maſtered, was done accordingly, and by their Order thus made publique.</p>
+            <div type="letters">
+               <p>The firſt that is thought worthy of publique view, is directed to a perſon of Honor here, and ſometimes a zealous Aſſerter of the Parliaments Cauſe, by a Character endorſed, which beſides that the Poſtſcript clears it, is known to ſignifie the Counteſs of <hi>Car<g ref="char:EOLhyphen"/>liſle,</hi> and comes from the Lord <hi>Lauderdail,</hi> written partly in Cyphers, but all with his own hand, as by comparing it with ano<g ref="char:EOLhyphen"/>ther written to his own Counteſs reſiding at <hi>Highgate,</hi> will be demonſtrated.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>8 <hi>July,</hi> 1648.</head>
+                     <opener>
+                        <salute>MADAM,</salute>
+                     </opener>
+                     <p>
+                        <note n="(a)" place="margin">It hath been an old ob<g ref="char:EOLhyphen"/>ſervation, That there was ne<g ref="char:EOLhyphen"/>ver any great Treaſon carried on without a Woman and a Prieſt: Since your Ladiſhip is pleaſed to lead the Van in this, 'tis thought Time may diſcover ſome of our late Diſſenting Brethren and non-Subſcribers of the Clergy that will bring up the Rear.</note> AT laſt our buſineſs is brought to ſome ripe<g ref="char:EOLhyphen"/>neſs; for D. Hamilton 30 writes, That this day he enters England 22: but this Bearer will more particularly acquaint your Ladiſhip, for he goes by the Army. He brings up to the Honorable Houſes of Parlia<g ref="char:EOLhyphen"/>ment the Declaration of this Kingdom, of the Neceſſity, Grounds and Ends of their undertakings, and of the return of our Army into <hi>England;</hi> your Ladiſhip will receive a copy of it: I dare both an<g ref="char:EOLhyphen"/>ſwer for the honeſty of the matter, and the rudeneſs of the form and language; for truly it was the work of<note n="(b)" place="margin">How long this Cocka<g ref="char:EOLhyphen"/>trice Egg hath been hatching, we are not yet ſo inſtructed as to affirm; but they that have obſerved the cold and liſtleſs proſecution of the War by the Scotiſh Army, called in and well paid for that Service, from the Siege of <hi>Hereford</hi> downward (at which time Trea<g ref="char:EOLhyphen"/>ties and Negotiations were admitted by ſome principal perſons in that Army, to which this Epiſtler was no ſtranger, with Sir <hi>William Fleming</hi> in the Kings behalf) will reaſon<g ref="char:EOLhyphen"/>ably judge, That the Deſign cannot be of a much yonger date, but laid there.</note> very few hours, not above<note n="(c)" place="margin">Great bodies commonly have ſlow Births: Naturaliſts obſerve, That the Ele<g ref="char:EOLhyphen"/>phant goes three years with yong; but this great Lord is (ye ſee) of quicker diſpatch, and may perhaps repent it at leiſure.</note> four and twen<g ref="char:EOLhyphen"/>ty: but God willing it ſhal be honeſtly purſued. This Gentleman hath order abſolutely to obey your La<g ref="char:EOLhyphen"/>diſhip in every thing. We owe ſo many obligations to E. Holland 31, and I have no cypher with him; there<g ref="char:EOLhyphen"/>fore
+<pb n="8" facs="tcp:116750:5"/>E. Lanerick 35 and I have written this encloſed to him, which you will pleaſe to deliver: it is only a teſtimony of our reſpects, and an aſſurance, when ever we are able, of our ſervice. E. Lanerick 35 thought it fit alſo to write a general Letter to the Lo: <hi>Hartford,</hi> which is done; and I have from my ſelf written to E. Mancheſter 39, I know not if he will tell it you. Your Ladiſhip will pleaſe to addreſs the Bearer to 164. 197. 193. and<note n="(d)" place="margin">If the City or (that which repreſents them) the Common-Councel ſhall take occaſion from hence to put a Teſt upon their Members for diſcovery of thoſe that have invited the Scots, or corre<g ref="char:EOLhyphen"/>ſpond with them, they ſhall juſtifie their Integrity, and rear a Monument of their Praiſe to all ſucceeding gene<g ref="char:EOLhyphen"/>rations.</note> our Friends in the City. I can adde no more to what I wrote ſo fully by the laſt Expreſs, but that I am moſt faith<g ref="char:EOLhyphen"/>fully and unfainedly,</p>
+                     <closer>
+                        <signed>Your moſt humble Servant.</signed>
+                     </closer>
+                     <postscript>
+                        <p>I would not write to your Brother <hi>Northumber<g ref="char:EOLhyphen"/>land,</hi> but none is more his Servant. Be pleaſed to ſend the copy of the Declaration to L. Jermin 28.</p>
+                        <closer>
+                           <signed>
+                              <hi>Endorſed</hi> )·( Count. <hi>Carliſle.</hi>
+                           </signed>
+                        </closer>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <p>This incloſed in the former, though without any Superſcription to di<g ref="char:EOLhyphen"/>rect it, muſt according the intimation in that Letter, belong to 31. the Earl of <hi>Holland.</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>My Lord,</hi> Your Lordſhip hath given<note n="(a)" place="margin">Which have not been without ſome convenient and prudent intermiſſions, varted and alternated <hi>pro temporum ratione.</hi>
+                        </note> ſo many eminent Teſtimonies of your Loyalty to the King, of your good affections to both King<g ref="char:EOLhyphen"/>doms, their Unity, Peace and Happineſs, and of your particular reſpects to<note n="(b)" place="margin">More reſpects to his own Nation might more have becom'd his Lordſhip; for want of which it may be ſaid, <hi>Hic amor eſt Odio majus ſeclus.</hi>
+                        </note> our Nation, That we thought it fit to appoint this Gentleman to wait on your Lordſhip, to acquaint you with our Reſolutions, and our proceedings in order to all thoſe we have been engaged for. If we had not thought it too publique a way, the Committee of Eſtates would have ſaid thus much to you. Be pleaſed therefore to let us know how we may<note n="(c)" place="margin">We know not how you may better ſerve him, then by ſending a competent ſum (wor<g ref="char:EOLunhyphen"/>thy your great obligations to him) for his ranſom.</note> ſerve your Lordſhip, and we dare anſwer, This Kingdom will ever be ready to give teſtimonies of their reſpects to your Lordſhip, as we ſhall be particularly to approve our ſelves, My Lord,</p>
+                     <closer>
+                        <signed>Your Lordſhips moſt humble Servants, <hi>Lauderdale. Lanerick.</hi>
+                        </signed>
+                        <dateline>
+                           <hi>Edenburgh,</hi> 
+                           <date>
+                              <hi>July</hi> 8.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="9" facs="tcp:116750:5"/>
+                     <p>
+                        <hi>MY Lord,</hi> Your Lordſhip hath given ſuch eminent proof of your Loyalty and Fidelity, as that we are confident (now while His Majeſty is in the<note n="(a)" place="margin">His Lordſhip might do better to repent himſelf of counſelling and abetting the King in his defection from the Parliament, which hath brought him to this extremi<g ref="char:EOLhyphen"/>ty; from which, a clear and cordial compliance with the Parliament can onely reſcue him with Honor and Advan<g ref="char:EOLhyphen"/>tage.</note> extremity of a low condition) your Lordſhip will ſhew your ſelf for His Reſcue. The Bearer is commanded to repreſent to you our condition and Reſolutions here; by whom we will earneſtly deſire you would pleaſe to convey to us ſuch Advices and Commands as you ſhall think fit, for he may be abſolutely truſted, and they ſhall be faithfully obeyed by,</p>
+                     <closer>
+                        <salute>My Lord,</salute> 
+                        <signed>Your Lordſhips moſt humble Servants, <hi>Lauderdale. Lanerick.</hi>
+                        </signed> 
+                        <dateline>
+                           <hi>Edenburgh,</hi> 
+                           <date>8 <hi>July,</hi> 1648.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Here follow a few (of many) Letters of Credence, by which their Agent <hi>Mr. Haliburton,</hi> was recommended to divers perſons in this Kingdom, ſome of which remain yet undiſcovered.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>JULY 8.</head>
+                     <p>
+                        <hi>RIght Honorable,</hi> You know this Bearer, therefore I ſhall onely ſay, you may truſt him as you would do</p>
+                     <closer>
+                        <signed>Your moſt obedient Son and Servant, <hi>Lanerick.</hi>
+                        </signed>
+                     </closer>
+                     <postscript>
+                        <p>
+                           <hi>Endorſed, For the Right Honorable the Earl of</hi> Derlton, <hi>but known in</hi> England <hi>by the name of</hi> Mr. James Maxwel, <hi>now or late Gentleman <g ref="char:V">Ʋ</g>ſher of the Black-Rod to the Lords Houſe.</hi>
+                        </p>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <p>If this Noble Courtier ſhall not without the rack confeſs what he knows of Deſign againſt this Kingdom, where he hath Reapen ſo many gol<g ref="char:EOLhyphen"/>den Harveſts, and which Tranſplanted into the other, have proſpered into an Earldom, I ſhall think the ſtool of Repentance too good a Penance, and a Horning from hence but too gentle puniſhment for high Ingratitude.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>JULY 8.</head>
+                     <p>
+                        <hi>SIr,</hi> This is onely to beg an abſolute truſt to the Bearer hereof, in every thing which he ſhall impart to you from</p>
+                     <closer>
+                        <signed>Your faithful Servant, <hi>Lanerick.</hi>
+                        </signed>
+                     </closer>
+                     <postscript>
+                        <p>It is ſo long ſince I heard from Mr. 52.6.8.44. that
+<pb n="10" facs="tcp:116750:6"/>I dar'ſt not write to him, if his<note n="(a)" place="margin">'Tis hoped many gal<g ref="char:EOLhyphen"/>lant men will change their in<g ref="char:EOLhyphen"/>clinations, ſince you have ſo notoriouſly changed your Cauſe; and upon that ac<g ref="char:EOLhyphen"/>count only were your friends, 1. <hi>uſ<expan>
+                                    <am>
+                                       <g ref="char:abque"/>
+                                    </am>
+                                    <ex>que</ex>
+                                 </expan> ad aras.</hi>
+                           </note> Inclinations be changed we will loſe a gallant Friend; Let this Bearer receive his directions in conveying his com<g ref="char:EOLhyphen"/>mands to me, if he hath yet any good wiſhes for us, which certainly we never ſo much deſerved from Men of Honor as now.</p>
+                        <closer>
+                           <signed>
+                              <hi>Endorſed,</hi> 409.</signed>
+                        </closer>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>JULY 8.</head>
+                     <p>
+                        <hi>MAdam,</hi> The little we have more to ſay then what we did by the laſt Expreſs, will be fully offered to your Lady<g ref="char:EOLhyphen"/>ſhip by this Bearer, for whoſe Fidelity and Secrecy I dare abſo<g ref="char:EOLhyphen"/>lutely engage my ſelf, and that he will faithfully obey ſuch com<g ref="char:EOLhyphen"/>mands as you ſhall think ſit to lay upon him. Madam,</p>
+                     <closer>
+                        <signed>Your Ladiſhips moſt humble and moſt obedient Servant, <hi>Lanerick. Endorſed,</hi> 367, 154. 17.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>What uſe their Agent <hi>Mr. Haliburton</hi> was to make of the great truſt and power conferred upon him by theſe abſolute and unlimited Cre<g ref="char:EOLhyphen"/>dentials, will appear in this that follows.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>JULY 8.</head>
+                     <p>
+                        <hi>SIr,</hi> This Bearer hath full Authority to engage the Publique Faith of <hi>Scotland,</hi> for ſuch ſums of money as can be procured upon a National ſecurity: We dar'ſt not hazard to put your name in the Commiſſion, for we cannot anſwer for the Secrecy of all that have ſigned it; beſide our fears of having it miſcarry, &amp; ſo a poſſibility of wronging you: But he hath ſo poſitive a com<g ref="char:EOLhyphen"/>mand to follow your directions, as he will addreſs himſelf to none but ſuch as you ſhall adviſe him; he will fully ſhew you our Condition, and the beſt ways in our Judgements of your being aſſiſting to us, give him the ſame truſt you would give to</p>
+                     <closer>
+                        <signed>Your moſt humble Servants, <hi>Lauderdale. Lanerick. Endorſed,</hi> 189.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>IOhn Donne,</hi> I am commanded by the Committee to let you know, That this Gentleman Mr. <hi>Haliburton</hi> is employed by them to <hi>London</hi> to the two Houſes of Parliament, and to go to the King: you ſhall direct Letters as he bids you, and receive
+<pb n="11" facs="tcp:116750:6"/>and direct our Letters as formerly, when he is in the Iſle of <hi>Wight.</hi>
+                     </p>
+                     <p>He carries up Copies of our large Declaration, which you ſhall tranſcribe, and in our<note n="(a)" place="margin">Though the faſhion be old, certainly it never became you; and though while you lived amongſt us you were with an unexampled patience ſuffered to publiſh your ſcan<g ref="char:EOLhyphen"/>dals and our wrongs by our own Inſtruments, inſooth 'twere high time now to leave it off, leſt it ſtick upon you with the ſuperadded badge of a ſhamoleſs Impudence.</note> old faſhion provide a Printer, and ſee that he print it correctly: I am confident many Printers will be glad to print it<note n="(b)" place="margin">You have ſo long plow<g ref="char:EOLhyphen"/>ed with our Heifers, that you may be confident of the Beaſts that they will do your work: But, my Lord, afford us the like in <hi>Scotland,</hi> and I ſhall not envy it, if you enjoy that liberty here to your utmoſt wiſh; in the mean time I ſhall content my ſelf with that eaſie Reproof, <hi>Licebit Clazementis turpuer agere:</hi> I hope you know the Story, which fits you but too well.</note> without a Warrant; therefore you ſhall be careful that it be not falſe printed: Before you can get it printed there, we ſhall have it printed here. I reſt,</p>
+                     <closer>
+                        <signed>Your aſſured Friend, <hi>Landerdale.</hi>
+                        </signed>
+                        <dateline>
+                           <hi>Edenburgh,</hi> 
+                           <date>8 <hi>July,</hi>
+                           </date>
+                        </dateline>
+                     </closer>
+                     <trailer>For <hi>Mr.</hi> John Donne.</trailer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="letters">
+               <p>The other Packet was intercepted by the Northumberland Forces, and tranſmitted to the Houſe of Commons by Sir <hi>Arthur Heſil<g ref="char:EOLhyphen"/>rige</hi> Governor of <hi>Newcaſtle;</hi> It was directed to Mr. <hi>John Donne,</hi> the Agent to the Committee of Eſtates for the King<g ref="char:EOLhyphen"/>dom of <hi>Scotland,</hi> at his Lodging in Black-Fryers.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Barwick: <hi>19</hi> July, <hi>1648.</hi>
+                     </head>
+                     <p>
+                        <hi>MAdam,</hi> I have received two together, one of the 6. the other of the 11. till now I thought it not poſſible a Letter from your<note n="(a)" place="margin">You ſee, my Lord, a fair hand may draw black lines; but comfort your ſelf, for Sables and Croſſes are good bearing in Heraldry.</note> Lady<g ref="char:EOLhyphen"/>ſhip could have brought me ſo much trouble as your laſt hath done, for the ſad diſaſter of ſo many gallant perſons. I could diſgeſt the ruine of that Deſign (though I was raiſed to a greater<note n="(b)" place="margin">Tis happy with <hi>Eng<g ref="char:EOLhyphen"/>land</hi> when the Enemies beſt hopes lean upon ſuch brek in Reels; and conſidering the <gap reason="illegible" resp="#UOM" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> you had of that <gap reason="illegible" resp="#UOM" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> valor, when he commanded the Kings Horſe in <hi>Scotland,</hi> we wonder upon what Baſis you raiſed ſuch great Expectations from him; you know who ſaid, <hi>
+                              <gap reason="illegible" resp="#UOM" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap> cerborum Duce Loone quam Leonum Duc. cervo.</hi>
+                        </note> expe<g ref="char:EOLhyphen"/>ctation from it then any thing elſe in <hi>England</hi>)
+<pb n="12" facs="tcp:116750:7"/>but the great loſs by the impriſonment of the Earl of <hi>Holland,</hi> I confeſs I cannot<note n="(c)" place="margin">Have a little patience, my Lord, and you ſhall have ſome Muſtard after your din<g ref="char:EOLhyphen"/>ner to help your digeſtion.</note> diſgeſt, nor your Ladyſhips trouble which you expreſs in the end of your Letter. But I will inſiſt no more on ſo ſad a ſubject; onely thus much I may with confidence aver, That except the King, who is a priſoner, none in <hi>England</hi> could have been made priſoner, that <hi>Scotland</hi> would have been ſo ready to relieve as the Earl of <hi>Holland,</hi> and none in the world more for<g ref="char:EOLhyphen"/>ward to it then I.</p>
+                     <p>From <hi>France</hi> we are ſtrangely neglected; I got not ſo much as a Letter, except what was directed in common, not the half of the Ammunition pro<g ref="char:EOLhyphen"/>miſed, and that was Muſtard<note n="(e)" place="margin">Since your Lordſhip is ſo unſatiſfied with the me<g ref="char:EOLhyphen"/>thod of your ſervice, I wiſh you had had your Muſtard before dinner.</note> after dinner, after our Army was marched; not a peny of<note n="(f)" place="margin">Not a peny, my Lord perhops it come all in Carde<g ref="char:EOLhyphen"/>cues, or elſe 'twas thought that the clippings and filings of our Engliſh money which you carried hence in your laſt, might defray the charge of this Expedition. Ammu<g ref="char:EOLhyphen"/>nition by haives, and Money by nulls, ſo let our Enemies be always ſupplied.</note> money: but that which is worſt, is the ſtrange<note n="(g)" place="margin">It is not ſtrange, but reaſon enough to make a prov<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>, <hi>Crete <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſis agere cum <gap reason="illegible" resp="#UOM" extent="4 letters">
+                                 <desc>••••</desc>
+                              </gap>iſi<g ref="char:EOLhyphen"/>bus,</hi> to break Faith with Faith breakers.</note> conditions demanded, contrary to all our ingagement, and ſhewing a great diſtruſt of <hi>Scotland;</hi> but I will re<g ref="char:EOLhyphen"/>peat nothing of what you may read here, and after you have read it, be pleaſed to ſend it away.</p>
+                     <closer>
+                        <signed>Your moſt humble Servant. <hi>Endorſed,</hi> )·( <hi>Count.</hi> Carliſle.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Barwick: <hi>10</hi> July, <hi>1648.</hi>
+                     </head>
+                     <p>
+                        <hi>MY Lord,</hi> We have at laſt received the Queen's and Prince's pleaſure by Sir <hi>William Fleming,</hi> with about the half of that Arms and Ammuni<g ref="char:EOLhyphen"/>tion we expected; yet as much as he could get at <hi>Amſterdam,</hi> though he ſtaid long for it: but<note n="(a)" place="margin">It may be the Queen and Prince were informed and ſatisfied with the Advice D <hi>Hamilton</hi> gave in <hi>Scotland,</hi> who to that prepoſition in Parliament, concerning ſup<g ref="char:EOLhyphen"/>ply of money for this Service, bade, Set the Lads into <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> and they would do well enough; which we found a ſober truth, when they came hither upon an honeſter Errand.</note> no Money, whereof we ſtood moſt in need. And as we are very ſenſible of, and thankful for Her Maje<g ref="char:EOLhyphen"/>ſty and His Highneſs gracious favor expreſt in the Letter they honored us with; ſo we cannot but let your Lordſhip know, how much we are troubled with thoſe hard conditions in the additional In<g ref="char:EOLhyphen"/>ſtructions,
+<pb n="13" facs="tcp:116750:7"/>which indeed are ſuch as we dare not make them known but to very few: For ſhould it be known in <hi>Scotland</hi> that the Prince demands in our Army the exerciſe of that<note n="(b)" place="margin">'Tis much that they have concell'd all Obligati<g ref="char:EOLhyphen"/>ons of Honor and Honeſty, loſt the remembrance of what we did for them in <hi>Q Eliza<g ref="char:EOLhyphen"/>beths</hi> day and what we would not do againſt than in the beginning of theſ. Troubles, that have broke then Vows to God, Faith and Treaties with men, ſhould ſtick at any form of Worſhip, <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> ſcruple a Ser<g ref="char:EOLhyphen"/>vice-Book, <hi>Qui <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>emth modeſciae limites tranſierum, oporta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> na<g ref="char:EOLhyphen"/>viter eſſe impudenies,</hi> which they could afford, were it not to give advantage to their op<g ref="char:EOLhyphen"/>poſers</note> Form of Wor<g ref="char:EOLhyphen"/>ſhip formerly uſed in <hi>England</hi> (which the King ne<g ref="char:EOLhyphen"/>ver had with us it would give ſo great advantage to the violent oppoſers and have ſuch an operation, as we ſhall not be guilts of: Some of the other De<g ref="char:EOLhyphen"/>mands look ſo like<note n="(c)" place="margin">Wonder not, my Lord, at that, ſince every Age hath afforded inſtances of them that have loved the Treaſon, but hated the Traytors.</note> diſtruſt, as we dare not ſhew them. But we have ſent Sir <hi>W. Fle<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>no</hi> to the Army, and when he comes back, and brings the opinion of D. <hi>Hamilton</hi> and <hi>Calendar,</hi> ſuch a return ſhall be made, and ſuch aſſurances given, both by the Com<g ref="char:EOLhyphen"/>mittee in the Name of the Kingdom, and by thoſe that wrote formerly, as ſhall witneſs our loyalty and fidelity to their Majeſties ſervice, and of our duty to the Prince, whoſe<note n="(d)" place="margin">'Tis thought the Prince remembers his Fathers uſage amongſt you, and may ex<g ref="char:EOLhyphen"/>pect, <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> your Army meet with a diſaſter, his perſon may be made a price for your redem<g ref="char:EOLhyphen"/>ption, with ſome money per<g ref="char:EOLhyphen"/>naps into the bargain</note> preſence with, and confidence in the Scots, will be found to be the beſt, if not the onely means of the Kings reſcue, and the Princes real good.</p>
+                     <p>The Scots Army is now at <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>erith, Lambert</hi> re<g ref="char:EOLhyphen"/>tires before them Faſt enough; they are in a condi<g ref="char:EOLhyphen"/>tion to ſtand upon their own legs: The greateſt part of the Forces expected from <hi>Ireland</hi> are land<g ref="char:EOLhyphen"/>ed in <hi>Scotland;</hi> as ſoon as they come up to the Army, and ſome Regiments now upon their march in <hi>Scotland,</hi> the Army will march into better quarters, The Earls of <hi>Lauderdale</hi> and <hi>Lanerick</hi> are ſent to <hi>Barwick</hi> with Forces to ſecure a Ga<g ref="char:EOLhyphen"/>riſon there<note n="()" place="margin">This Parentheſis was writ in Characters in the ſuſt perſon, which proves them the Authors of this Letter; the reſt of the clauſe being in words at length, and in the third perſon, to blinde the Reader.</note> (which we have done) They are to return to EDENBURGH, where the Ge<g ref="char:EOLhyphen"/>neral Aſſembly now ſits, as violent againſt us as ever the Commiſſioners of the laſt were. The miſ<g ref="char:EOLhyphen"/>fortunes of our friends in the South, and at <hi>Pom<g ref="char:EOLhyphen"/>fret</hi> is ſad, moſt eſpecially the taking of the Earl of <hi>Holland.</hi> But no difficulties nor diſcouragement can make us leſs active, as we ſhall, God willing, (how<g ref="char:EOLhyphen"/>ever we may be looke upon) give real proofs of
+<pb n="14" facs="tcp:116750:8"/>our zeal and conſtancy to the Kings ſervice; and that we are moſt faithfully</p>
+                     <closer>
+                        <signed>Your moſt humble Servants, <hi>Lauderdale. Lanerick.</hi>
+                        </signed>
+                     </closer>
+                     <trailer>For my Lord <hi>Jermin.</hi>
+                     </trailer>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>Another incloſed.</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Barwick: <hi>19</hi> July, <hi>1648.</hi>
+                     </head>
+                     <p>
+                        <hi>MAdam,</hi> We have now loſt all our hopes in the South, ſince the Earl of <hi>Holland</hi> his ſad misfortune and reſtraint; but as our Difficulties grow, ſo does the juſtneſs of our quarrel; for to the reſcue of the King is now<note n="(a)" place="margin">Nothing to nothing will not advance the ſum, nor one bad Cauſe to mother mend the matter, but iniqui<g ref="char:EOLhyphen"/>ty to iniquity may increaſe vvrath againſt the day of wrath, if not prevented by a timous repentance.</note> joyned our beſt and no<g ref="char:EOLhyphen"/>bleſt friend. With Gods<note n="(b)" place="margin">We hope he is left out of all your correſpondencies, for we may ſafely ſay, God is Independent, and will not aſ<g ref="char:EOLhyphen"/>ſociate with ſuch faithles pre<g ref="char:EOLhyphen"/>tenders to Presbytery, as have the powers and piety of it un<g ref="char:EOLhyphen"/>der the notion of Impertiner<g ref="char:EOLhyphen"/>cy</note> aſſiſtance we will effectuate both, or bring our ſelves to the ſame condition. This is a<note n="(c)" place="margin">Madam, 'tis ill truſting to ſuch votaries; he is ill like to keep his perſonal vow, that hath broken his National, more ſolemnly made then this, and with a hand lifted up to the high God.</note> vow now ſolemnly made, and ſhall as faithfully be kept by</p>
+                     <closer>
+                        <signed>Your moſt humble and moſt obedient Servant, <hi>Lanerick.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Barwick: <hi>19</hi> July, <hi>1648.</hi>
+                     </head>
+                     <p>
+                        <hi>MIſtris,</hi>
+                        <note n="(d)" place="margin">Yet more Ladies! ſure that war which at firſt, and with the Scots was <hi>Bellum Epiſco ale,</hi> and ſince in <hi>Eng<g ref="char:EOLhyphen"/>land Bellum Baſilicum,</hi> will at laſt reſolve it ſelf between both into <hi>Bellum Faemininum;</hi> but that God who has inabled us to outride the ſtorms and impetuous force of our Maſ<g ref="char:EOLhyphen"/>culine ſpirited Enemies, will not let us fall under the at<g ref="char:EOLhyphen"/>tempts of ſuch effeminate conſpirators.</note> If the ſatisfaction of two long Letters from you had not allayed it, yours of the third of July would have made me quarrel, there is a great deal in it too like Complement; and then you tell me in plain Engliſh, 4 will imploy <hi>Lauder<g ref="char:EOLhyphen"/>dale</hi> no more, what ever neceſſities he have; and that upon a great miſtake, as if I had by that woful little ſum prejudiced my occaſions: But I muſt ſay no more of this, leſt again I grow angry. You will, I hope, by the next, do <hi>Lauderdale</hi> more right, and ſend your picture, which will make amends.</p>
+                     <p>Now for anſwer to your two laſt, you deſire to know<note n="(e)" place="margin">î is taken to ſignifie the Lord <hi>Jer<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>in.</hi>
+                        </note> how î and Duke <hi>Hamilton</hi> agree, I wrote you my minde of that already, which it ſeems you had not then received, but it came that night to <hi>London,</hi> ſo I ſhall not repeat it. Since that time, Informations are come to <hi>Lanerick,</hi> that î does
+<pb n="15" facs="tcp:116750:8"/>
+                        <hi>Hamilton</hi> and him ill offices in <hi>France,</hi> which re<g ref="char:EOLhyphen"/>news the diſtance, I do what I can to mend it, but I cannot do you the good offices you expect with Duke <hi>Hamilton</hi> at this diſtance,<note place="margin">'Twas obſerved in the Pre<g ref="char:EOLhyphen"/>face, That Duke <hi>Hamiltons</hi> af<g ref="char:EOLhyphen"/>fection to Presbytery is ſu<g ref="char:EOLhyphen"/>ſpected by their moſt confi<g ref="char:EOLhyphen"/>dent Abettors and Cabaliſti<g ref="char:EOLhyphen"/>cal correſpondents Here's my Voucher.</note> yet I have told <hi>La<g ref="char:EOLhyphen"/>nerick</hi> what a Champion you are. Your next que<g ref="char:EOLhyphen"/>ſtion is, of the affections of <hi>Lauderdale</hi> to 163. which I aſſure you is as great as ever, as alſo to Presbytery, though he abhors the impertinencies of ſome Presbyters, moſt eſpecially <hi>Gileſpy:</hi> And this affection is moſt conſiſtent with all duty to the King and to <hi>England,</hi> which <hi>Lauderdale</hi> can de<g ref="char:EOLhyphen"/>monſtrate, though for his own part, to both he be<g ref="char:EOLhyphen"/>lieves it much above diſpute. I ſhall here write no<g ref="char:EOLhyphen"/>thing of News, it comes to you by another addreſs, as you deſired. I am moſt unſatisfied with the Princes delay, and more with thoſe hard conditions Sir <hi>William Fleming</hi> hath brought, which indeed argue a great miſtruſt of the Scots, and an unjuſt one: For aſſure your ſelf, what ever you may think of other Deſigns,<note n="(b)" place="margin">It is hard to diſtinguiſh between the Nation and Par<g ref="char:EOLhyphen"/>liament of <hi>Scotland,</hi> that un<g ref="char:EOLhyphen"/>der a preſent diſtemper is in<g ref="char:EOLhyphen"/>gaged in this Deſign: yet I dare not call it National, when I finde ſo many there that have not bowed the knee to <hi>Baal,</hi> and amongſt them ſo conſiderable a body and So<g ref="char:EOLhyphen"/>ciety of men, as the Reverend Aſſembly, and others our Co<g ref="char:EOLhyphen"/>venant-ingaged Brethren of all qualities and degrees, who deſire to ſerve and ſave the King and <hi>England.</hi>
+                        </note> It is <hi>Scotland,</hi> and <hi>Scotland</hi> onely muſt ſave the King and <hi>England,</hi> all others have their riſe from the expectation of <hi>Scotland,</hi> and I am ſorry with ſo little ſucceſs, moſt particu<g ref="char:EOLhyphen"/>larly for E. <hi>Holland.</hi> And now whileſt <hi>Lauderdale</hi> is ſo unſatisfied, and indeed almoſt deſpairing that the Prince will come to <hi>Scotland,</hi> if he can choſe; I am earneſtly preſt to go to <hi>France</hi> to invite him; <hi>Lauderdale</hi> ſhuns it, and oppoſes it with all his ſtrength, but is reſolved, rather then the blame of not inviting Him ſhould be charged upon him, he will go, although he ſhould be laugh'd at at his re<g ref="char:EOLhyphen"/>turn, for coming without his errand: 2 will go, though <hi>Lauderdale</hi> hath no hope of prevailing, as to his Regiments full eſtabliſhment. But all ſhall be done that is poſſible, which you eaſily expect from me: if <hi>Lauderdale</hi> go, he ſhall not relieve 4. yet you will know his Regiment by the Cornets, which are hair-colour'd and white. I have ventured ſo
+<pb n="16" facs="tcp:116750:9"/>long a Letter, though I have no hope it will go ſafe, always if it be intercepted, you are eaſed of ſo much trouble, and they that gets it may let it go, for they will not be much the wiſer, for there are no State-matters in it. Adieu.</p>
+                     <closer>
+                        <signed>
+                           <hi>Endorſed,</hi> ΔΔ.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>This Letter is not without ſome obſcurity and inconſiſtency; but far be it from this hand to adde or ſupply any ſence that ſeems to be leſt in the Character on Decypherer: Gods Cauſe needs not our lye. Beſide, the next of the ſame Direction, whith runs in a more current uniformity and analogy of ſence, in many parts expounds and juſtifies this.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>YOu will be clearly perſwaded it was not want of reſolution to part, made me ſtay here ſo long, when you ſee that ſince I wrote laſt, I have taken a firm one to go to <hi>France</hi> within ten days at moſt: It is both the deſire of î ſignified by Sir <hi>William Fleming;</hi> and every thing elſe invites, and is fully ripe for it: One ſingular inſtance is, <hi>Lauderdales</hi> going along with me, as you will hear fully from himſelf: I get a Letter from the Com<g ref="char:EOLhyphen"/>mittee to the King of <hi>France,</hi> one to the Queen, another to the Cardinal, to get my Regiment eſtabliſhed with all advan<g ref="char:EOLhyphen"/>tages, which I know will take no effect, onely it will conciliate ſome reſpect to my affairs, and furniſh me a handſom retreat when I liſt to come off, having got a refuſal; both which you may make an account of, for it is very like this ſummer will go near to make an end of the greateſt part of my men, and un<g ref="char:EOLhyphen"/>leſs the Countrey undertake the recruits, and that upon terms granted by <hi>France,</hi> for the ſure payment of the Regiment, and admiſſion of it to guard the King, it were madneſs to look after it any more: <hi>Lauderdale</hi> will take courſe for Addreſs, and you ſhall hear from us at all occaſions: The General Aſſembly here will go as high againſt the engagement as can be imagined, but it is now<note n="(a)" place="margin">So thought <hi>Haman,</hi> when he had gained a Commiſſion for the deſtruction of the Iewiſh Nation: but though the Medes and Perſians could not reverſe ſuch Decrees, the God of Iſrael could, and did control and invert them to the ruine of the Deſigners.</note> paſt their hindring, and all that op<g ref="char:EOLhyphen"/>poſe it will be ruined, unleſs ſome ſtrange accident hinder it; Duke <hi>Hamilton</hi> and <hi>Calendar</hi> have not
+<pb n="17" facs="tcp:116750:9"/>both the ſame ſpirit;<note n="(b)" place="margin">If <hi>Lanerick</hi> rule <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> D. <hi>Hamalton,</hi> who is the elder Brother, hath the more wrong; but if either rule it, King <hi>Charls</hi> wants ſome of His Right.</note> 
+                        <hi>Lanerick</hi> doth now abſo<g ref="char:EOLhyphen"/>lutely rule <hi>Scotland,</hi> and though it be indeed moſt perfectly neceſſary for <hi>Lauderdale</hi> to go, yet the <hi>Hamiltons</hi> preſs it vehemently to have him out of the way, that they may rule all without any impe<g ref="char:EOLhyphen"/>diment, which is impoſſible (while he is preſent, at leaſt) to bad ends, ſo that things will ſurely go ſtrangely here ſhortly: all other particulars of our voyage <hi>Lauderdale</hi> will communicate; and all I adde is, that you fail not to write us <hi>Lauderdales</hi> addreſſes, what you will have me ſay to î.</p>
+                     <closer>
+                        <signed>
+                           <hi>Endorſed,</hi> ΔΔ.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="letters">
+               <p>Theſe three that follow, amongst many others that ſpeak the ſame ſence, being writ at large, are added as concurrent Teſtimonies to thoſe in Cypher, though it needed not, when the principal con<g ref="char:EOLhyphen"/>tents are ſo univerſally, and (by that unhappieſt way of proof, Experience) found to be too true; as namely, That the Earl of <hi>Calendar</hi> hath the Command of <hi>Carliſle</hi> in <hi>Cumberland</hi> (as the Earl of <hi>Lauderdale</hi> hath of the Counteſs of <hi>Carliſle</hi> at <hi>Weſtminſter</hi>) The ſame Lord <hi>Lauderdale</hi> and <hi>Lanerick</hi> were ſent to ſecure <hi>Barwick,</hi> upon an Information that ſome thou<g ref="char:EOLhyphen"/>ſands of Engliſh Horſe were in <hi>Northumberland;</hi> and that the Information proving falſe, they reſolved to prove falſe too, and ſecure the place notwithſtanding, with the breach of Faith, and the Articles of the National Treaties: And laſtly, but that which is worth all the reſt, That learned <hi>Gilleſpy</hi> is Moderator of that Reverend Aſſembly, that will never (to ſay no worſe) pray a Bleſſing upon this horrid Violation of the Publique Faith of their Nation, by many ancient Obligations, and the late Covenant and Treaties, ſo ſolemnly and religiouſly en<g ref="char:EOLhyphen"/>gaged with this.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>For the Counteſs of <hi>Lauderdale</hi> at <hi>Highgate.</hi>
+                     </head>
+                     <opener>
+                        <salute>My deart heart,</salute>
+                     </opener>
+                     <p>IT is very likely this Letter may come to other hands before it come to you, yet I may tell you,
+<pb n="18" facs="tcp:116750:10"/>that I am well, thus much nearer you then I was; for it pleaſed the Committee of Eſtates to command my Lord <hi>Lanerick</hi> and me to come hither and ſecure this Town, which we have this day very quietly done: The<note n="*" place="bottom">You had no reaſon to expect other from thoſe Renegado Engliſh, who were ſent into that Town by your ſelves, to keep it for your coming.</note> Engliſh are marcht out, and we in, we have made Col: <hi>Lodowick Leſley</hi> Governor under my Lord Duke, the Earl of <hi>Calendar</hi> hath the command of <hi>Carliſle:</hi> As for the condition of our Army, I ſend you the laſt Letter I had from thence, which comes from one that is in the Engliſh Army; within two days or three I go back to <hi>Edenburgh,</hi> where Mr. <hi>Gilleſpy</hi> is Moderator of our Aſſembly.</p>
+                     <p>Be careful of the incloſed Letters, you know to whom 151, is, the other is for Miſtreſs 108.23.71.13.65.95.109.21.45.104.11.60.66.17. I pray you cauſe write on the back of it and ſend it to her: This is all at this time ſhall be ſaid by</p>
+                     <closer>
+                        <signed>Your own LAUDERDALE.</signed>
+                        <dateline>
+                           <hi>Barwick,</hi> 
+                           <date>19 <hi>July.</hi>
+                           </date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>For <hi>151.</hi>
+                     </head>
+                     <p>I was ſorry to ſee you trouble your ſelf and me both, with an account of what money you received, you need no more but take upon my account as you need it, and advertiſe me.</p>
+                     <p>I can tell you but few news: Our Army is at <hi>Peerith, Lambert</hi> hath ſtill retired, but our Army will not go in far, till the Forces from <hi>Ireland</hi> come to them, moſt
+<pb n="19" facs="tcp:116750:10"/>part are landed; the General Aſſembly ſits, and <hi>Gil<g ref="char:EOLhyphen"/>leſpy</hi> is Moderator: The Committee ſent the Earls of <hi>Lauderdale</hi> and <hi>Lanerick</hi> to ſecure <hi>Berwick,</hi> upon an information that ſome thouſand Engliſh Horſe were in <hi>Northumberland,</hi> and gave them power to take what force they could get for that ſervice, but the in<g ref="char:EOLhyphen"/>formation is proved falſe, and they are gone with no more then are neceſſary for the place: Sir <hi>William Fleming</hi> is returned with a good proportion of Ammu<g ref="char:EOLhyphen"/>nition and ſome Arms: This is all I can tell you at this time.</p>
+                     <trailer>
+                        <hi>For Mr.</hi> GEORGE HALIBURTON.</trailer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>19 July, 1648.</head>
+                     <opener>
+                        <salute>George,</salute>
+                     </opener>
+                     <p>VNtil I know of your being at <hi>London,</hi> I ſhall not direct the Packets to you; I can ſay little by this Poſt, the condition of our Army being better known to you then to me. Moſt of our Iriſh Forces are now landed, and within few days will joyn with our Army; two hundred of them in their paſſage were taken by one of the Parliaments Ships, and carried to Col. <hi>Monk,</hi>
+                        <note n="*" place="bottom">Whence you may ſee all fairneſs (I hope it deſerves no other name) towards the Scots, none from them. <hi>Omnia adverſum ſpectantia nulla retrorſum.</hi>
+                        </note> who as we are this day informed, did immediately cauſe ſend them back to Major Gen. <hi>Monro,</hi> declaring, That he had no Order for hindring of Scotiſh men to return to their own Land; moſt of our Forces in the North are likewiſe upon their march, and within few days will be up with the Army. This day the Earls of
+<pb n="20" facs="tcp:116750:11"/>
+                        <hi>Lauderdale</hi> and <hi>Lanerick</hi> have ſecured the Town of <hi>Berwick</hi> from the Sectaries with a Scottiſh Gariſon, and have placed Col. <hi>Lodowick Leſley</hi> Governor there: It is impoſſible to ſatisfie this General Aſſembly, who are reſolved to fly very high in their Cenſures and Declarations, though many pious and eminent men of the<note n="*" place="bottom">Tis likely there wants the word Epiſcopal, who onely will be ſcandalized at their proceedings in purſuance of their Co<g ref="char:EOLhyphen"/>venant.</note> Clergy are ſo ſcandaled with this rigid pro<g ref="char:EOLhyphen"/>cedure of theirs, as they can hardly force themſelves to live under their Government: This is all which for the preſent ſhall be ſaid to you by</p>
+                     <closer>
+                        <signed>Your Friend.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:116750:11"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
